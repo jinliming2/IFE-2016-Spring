@@ -52,7 +52,7 @@ Link: [http://ife.baidu.com/2016/task/detail?taskId=13](http://ife.baidu.com/201
 <script type="text/javascript">
 
 (function() {
-  /*	
+  /*
   在注释下方写下代码
   给按钮button绑定一个点击事件
   在事件处理函数中
@@ -81,5 +81,5 @@ Link: [http://ife.baidu.com/2016/task/detail?taskId=13](http://ife.baidu.com/201
 * 相互讨论，最后合成一份组内最佳代码进行提交
 
 ## 在线学习参考资料
-[JavaScript入门篇](http://www.imooc.com/view/36)
-[MDN JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+* [JavaScript入门篇](http://www.imooc.com/view/36)
+* [MDN JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
